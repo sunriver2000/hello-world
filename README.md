@@ -1,3 +1,3 @@
 # hello-world
-Hi,Humans
+Hi,Humans.
 I just had dumplings this noon.
